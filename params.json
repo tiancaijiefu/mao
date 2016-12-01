@@ -1,0 +1,6 @@
+{
+  "name": "Mao",
+  "tagline": "",
+  "body": "### Welcome to See's Mao Pages.\r\nseeframework's mybatis access object.\r\n\r\n### Introduction\r\n感谢宋、感谢团队对基础代码反复变更的容忍，V0.1版本还有很多缺陷，天才姐夫会竭尽全力的完善.\r\n\r\n### Sibling component\r\nsee-webplugin.\r\nsee-security.\r\nsee-sessionQBar.\r\nsee-mysql-scrarab.\r\nsee-bpmn.\r\nsee-auto-plugin.\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
